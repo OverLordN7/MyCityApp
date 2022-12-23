@@ -1,3 +1,139 @@
 <resources>
     <string name="app_name">MyCityApp</string>
+
+    <string name="city_name">Tashkent</string>
+    <string name="category_type_1">Cinemas</string>
+    <string name="category_type_2">Parks</string>
+    <string name="category_type_3">Malls</string>
+    <string name="category_type_4">Museums</string>
+
+    <string name="cinema_name_1">Next Cinema</string>
+    <string name="cinema_desc_1">
+        4 halls for 63 seats each;
+        Sound format Dolby Digital 5.1;
+        Digital cinema projectors Christie Digital Solaria One, with a resolution of 2K;
+        Screen dimensions: 5.2 × 2.2;
+        A bar with popcorn, soft drinks, and snacks.
+    </string>
+
+    <string name="cinema_name_2">Anhor Cinema</string>
+    <string name="cinema_desc_2">
+        Sound format Dolby Digital 7.1 Surround EX;
+        Digital cinema projectors Solaria One;
+        Parking available;
+    </string>
+
+    <string name="cinema_name_3">Compass Cinema</string>
+    <string name="cinema_desc_3">
+        The Compass Cinema multiplex cinema includes six halls:
+            a large hall for 230 seats, three halls for 77 seats,
+            one for 66 seats and a VIP hall for 26 seats.
+        There are two cinema bars, two wardrobes and a waiting room on the territory of the cinema.
+        Cinema halls are equipped with Christie 2220/2215 digital film projectors and
+        Eurosound acoustic system.
+    </string>
+
+    <string name="cinema_name_4">Parus Cinema</string>
+    <string name="cinema_desc_4">
+        4 halls for 78 seats each;
+        Parking available;
+    </string>
+
+    <string name="park_name_1">Anhor park</string>
+    <string name="park_desc_1">
+        Parking available;
+    </string>
+
+    <string name="park_name_2">Central Park</string>
+    <string name="park_desc_2">
+        A green park with many attractions, a cafe on an ornamental lake, boats, a Ferris wheel, etc.
+        Guarded parking.
+    </string>
+
+    <string name="park_name_3">Tashkent City</string>
+    <string name="park_desc_3">
+        Parking available;
+    </string>
+
+    <string name="park_name_4">Park "Yangi Uzbekistan"</string>
+    <string name="park_desc_4">
+        Parking available;
+    </string>
+
+    <string name="mall_name_1">Mall "Next"</string>
+    <string name="mall_desc_1">
+        In the Next shopping and entertainment complex, everyone can find what they like.
+        In turn, it is guaranteed a high quality, good service and excellent mood.
+        A wide range of unique quality goods and services.
+        World brands, European standards, gourmet cuisine and much more.
+    </string>
+
+    <string name="mall_name_2">Mall "Samarkand Darvoza"</string>
+    <string name="mall_desc_2">
+        The best mall in town! On weekends, during working hours, when other shopping centers are already empty,
+        trade is in full swing here. A lot of people, a lot of cars, everything is crowded with cars.
+        But, at the same time, it is not noisy, calm and comfortable, somehow at home.
+        It has everything you need for relaxation and shopping: a cafe, a cinema, a children\'s room, shops,
+        restaurants, pharmacies, cafes and much more. Has its own cinema. Everything is clean, beautiful,
+        comfortable. Shops are very cozy, beautiful and pleasant. Prices are lower than other stores.
+    </string>
+
+    <string name="mall_name_3">Mall "Compass"</string>
+    <string name="mall_desc_3">
+        The best mall in town! On weekends, during working hours, when other shopping centers are already empty,
+        trade is in full swing here. A lot of people, a lot of cars, everything is crowded with cars.
+        But, at the same time, it is not noisy, calm and comfortable, somehow at home.
+        It has everything you need for relaxation and shopping: a cafe, a cinema, a children\'s room, shops,
+        restaurants, pharmacies, cafes and much more. Has its own cinema. Everything is clean, beautiful,
+        comfortable. Shops are very cozy, beautiful and pleasant. Prices are lower than other stores.
+    </string>
+
+    <string name="mall_name_4">Mall "Mega"</string>
+    <string name="mall_desc_4">
+        The best shopping center in the city, very conveniently located.
+        There is everything you need for comfortable shopping, entertainment and relaxation.
+        The store "Mega" has a huge selection of clothes, shoes, children\'s goods.
+        On the territory of the mega there is a cinema where not only local films are shown,
+        but also foreign ones. Many shops with branded clothing, shoes, watches, accessories, sporting goods.
+    </string>
+
+    <string name="museum_name_1">The State Museum of History</string>
+    <string name="museum_desc_1">
+        The State Museum of History of the Academy of Sciences of the Republic of Uzbekistan is one
+        of Central Asia\'s largest and oldest research and educational institutions, dating back more than 120 years.
+        The museum contains a unique collection of over 250,000 archeological,
+        numismatic and ethnographic exhibits and archival materials.
+    </string>
+
+    <string name="museum_name_2">The State Museum of Arts</string>
+    <string name="museum_desc_2">
+        The State Museum of Arts of Uzbekistan is one of the largest museums in the Central Asia,
+        which was founded in 1918 on the base of a small collection from 500 exhibits.
+        These were the works of the Russian and the West-European art such as painting, sculpture,
+        decorative furniture, porcelain and bronze. The most valuable exhibits of the antique and
+        the early-medieval art of Uzbekistan are presented in the exposition of the museum;
+        they are architectural decor, embroideries, rugs, fabrics, copper-stamping manufactures,
+        golden needlework, jewelry art and others.
+    </string>
+
+    <string name="museum_name_3">Timurid\'s Museum</string>
+    <string name="museum_desc_3">
+        State Museum of History of Timurids opened in Tashkent on 18 October, 1996.
+        The museum was placed in the centre of Tashkent for the 660-year anniversary of Amir Timur,
+        and has an unusual shape, in the shape of a dome, in accordance with the style of famous locallandmarks.
+        The museum building represents the synthesis of medieval, or more exactly,
+        the Timurids epoch and modern architectural styles. It has a circular form with ribbed dome decorated with blue majolica,
+        parapets on the roof, open aywan and orderly pillars. White marbles were used in the decoration of pillars, floor and front stairs.
+        The inner side of the dome is designed in accordance with the best traditions of the eastern architecture.
+        Decorated with refined ganch-carving it is covered with thin layer of gold leaf.
+    </string>
+
+    <string name="museum_name_4">Museum of railway engineering</string>
+    <string name="museum_desc_4">
+        Tashkent museum of railway engineering is a member of the World Association
+        of technical museums on the part of railway engineering and it is one of the most interesting museums of this type around of globe.
+        At present time 13 steam-engines, 18 diesel and 3 electric locomotives of historical series, produced in the last millennium,
+        different kinds of cars and carriages, the most interesting samples of last century\'s repair-construction equipment are exhibited in Museum.
+    </string>
+
 </resources>
